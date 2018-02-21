@@ -1,0 +1,11 @@
+C:\source\test\TGNDCORE\tgndcore\bin\Debug\netcoreapp2.0\tgndcore.deps.json
+C:\source\test\TGNDCORE\tgndcore\bin\Debug\netcoreapp2.0\tgndcore.runtimeconfig.json
+C:\source\test\TGNDCORE\tgndcore\bin\Debug\netcoreapp2.0\tgndcore.runtimeconfig.dev.json
+C:\source\test\TGNDCORE\tgndcore\bin\Debug\netcoreapp2.0\tgndcore.dll
+C:\source\test\TGNDCORE\tgndcore\bin\Debug\netcoreapp2.0\tgndcore.pdb
+C:\source\test\TGNDCORE\tgndcore\obj\Debug\netcoreapp2.0\tgndcore.csprojResolveAssemblyReference.cache
+C:\source\test\TGNDCORE\tgndcore\obj\Debug\netcoreapp2.0\tgndcore.csproj.CoreCompileInputs.cache
+C:\source\test\TGNDCORE\tgndcore\obj\Debug\netcoreapp2.0\tgndcore.AssemblyInfoInputs.cache
+C:\source\test\TGNDCORE\tgndcore\obj\Debug\netcoreapp2.0\tgndcore.AssemblyInfo.cs
+C:\source\test\TGNDCORE\tgndcore\obj\Debug\netcoreapp2.0\tgndcore.dll
+C:\source\test\TGNDCORE\tgndcore\obj\Debug\netcoreapp2.0\tgndcore.pdb
