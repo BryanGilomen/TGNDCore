@@ -20,7 +20,6 @@ namespace tgndcore
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            int x;
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
